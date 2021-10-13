@@ -1,6 +1,6 @@
 name: Update gist with WakaTime stats
 on:
-  workflow_dispacth:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
 jobs:
